@@ -21,7 +21,7 @@ const Achievement = () =>  {
           />
         </Card>
         <Card 
-        title="Nisha is Munni" 
+        title="GDSC" 
         icon={<AceternityIcon order="Achievement 2"/>}
         description="Contributor">
           <CanvasRevealEffect
@@ -36,7 +36,7 @@ const Achievement = () =>  {
          
         </Card>
         <Card 
-        title="Munni is Aditi" 
+        title="Hacktober Fest" 
         icon={<AceternityIcon order="Achievement 3" />}
         description="Contributor"
         >
